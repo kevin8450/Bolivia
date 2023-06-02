@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6gvbbZ9/RED-UNO-PLAY-LA-PAZ-HD.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDvHXdvMAF38sYBUQteuv5SOoAXnQQyIEWXuNPVUXJM8l)/dm/3/x8ko1ix/d/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrkSy9ZFMpcpIph-BcgJkLcyyzIQuxgMLAKbLt271YaX)/dm/3/x825whp/d/live-3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
 https://streamer02.digital.com.bo/session/6fe7d180-9eeb-11ed-ab90-00505683ffaa$h1.0$default/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
