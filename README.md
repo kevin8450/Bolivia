@@ -57,37 +57,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w2063934086.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TgMH1jk/VTV-poder-de-dios-hd.jpg" group-title="Canales Bolivianos",VTV TV HD
 https://inliveserver.com:1936/9518/9518/chunklist_w1174532874.m3u8
 
-***DOCUMENTALES Y NOTICIAS***
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g6g1XBv/24-H-NOTICIAS-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",RTVE 24HRS HD [NOT 24/7]
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMX2rJd/DW-ESPA-OL-HD-01.jpg" group-title="DOCUMENTALES Y NOTICIAS",DW ESPAÑOL HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="DOCUMENTALES Y NOTICIAS",DW ESPAÑOL FHD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="DOCUMENTALES Y NOTICIAS",DW ESPAÑOL SD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTZxTCq/HISPANTV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",HISPANTV HD
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="DOCUMENTALES Y NOTICIAS",FORO TV HD
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbBq6T8/EL-TORO-TV.jpg" group-title="DOCUMENTALES Y NOTICIAS",EL TORO TV HD
-https://streaming018.gestec-video.com/hls/eltoro_bal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVLGJWx/VTV-VLC.jpg" group-title="DOCUMENTALES Y NOTICIAS",VENEZOLANA TV HD
-https://www.dailymotion.com/video/x828i6j
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFW0Hdj/PANAMERICANA-VLC.jpg" group-title="DOCUMENTALES Y NOTICIAS",PANAMERICANA HD
-https://www.dailymotion.com/video/x774s7s
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcZb31N/el-nueve-hd.jpg" group-title="DOCUMENTALES Y NOTICIAS",EL NUEVE HD
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2fa04169-2699-4def-b274-0befed696946/4.m3u8
 
 **************CANALES INTERNACIONALES**************
 
