@@ -29,25 +29,12 @@ https://streamer02.digital.com.bo/session/1c679238-a653-11ed-ab90-00505683ffaa%2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1674083061.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.1 HD
-https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w1146148886.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.2 HD
-https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w808240521.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="Canales Bolivianos",TVU LP HD
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1126647025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="Canales Bolivianos",PAT LA PAZ HD
-
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="Canales Bolivianos",PAT LA PAZ 2 HD
 
 https://streamer04.digital.com.bo:443/session/8f36bd7c-6b8b-11ee-9a6d-00505683ffaa$h1.0$default/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XVhbT8/RED-ADVENIR-HD.jpg" group-title="Canales Bolivianos",RED ADVENIR HD
-https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w924066506.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="Canales Bolivianos",ABYA YALA TV HD
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
@@ -61,49 +48,17 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="Canales Bolivianos",DELTA TV HD
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fntJmzB/TROPICAL-HD.jpg" group-title="Canales Bolivianos",TV HD TROPICAL
-https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w1046437087.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="Canales Bolivianos",RTVE PUNATA HD
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="Canales Bolivianos",CEACOM HD
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w639002380.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bB4j1n2/ZOY-TV-HD-BOLIVIA.jpg" group-title="Canales Bolivianos",ZOY TV HD
-https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="Canales Bolivianos",UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg07kzz/radio-san-gabriel-hd.jpg" group-title="Canales Bolivianos",RADIO SAN BORJA TV HD
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w482342702.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqT0HCX/CINERAMA-HD.jpg" group-title="Canales Bolivianos",CINERAMA TV HD
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w2063934086.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TgMH1jk/VTV-poder-de-dios-hd.jpg" group-title="Canales Bolivianos",VTV TV HD
 https://inliveserver.com:1936/9518/9518/chunklist_w1174532874.m3u8
-
-***SECCION CANALES BOLIVIA ***
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO LPZ HD
-https://www.dailymotion.com/video/x8ko1ix
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO SCZ HD
-https://www.dailymotion.com/video/x825whp
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO CBBA HD
-https://www.dailymotion.com/video/x827j2y
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6apNwwGiudyWcC7wXXUAEovi-CPUt6YkDKbn_Yw61jTnL12mdLRbQtr26tjbMtQKl5xHopzr0J0XooynqSgX0uzaOYPPv_2N4Z4HSlpV11EPqtI0lUuD5HSe-4dr0td0OwCBKpNnIEXPF8Bq45rRVAgMWfqHi7AFNjFyafqv0Or8_fEX4CI7On0VTbA/s3024/ATB%20BOLIVIA%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB BOLIVIA HD
-https://www.dailymotion.com/video/x84eirw
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCOJawTOGS6HGTjEzVg_oneRwXKPwcj3h8A25iWovOFsCbVHtbGxU2T2xt2wTgPahf3eWyy03ybwWZ86XXJHUnxbNo4mx5LKXsTWa7W17YYDMjgNQpY1uFOWdV0YgzKxm-93eDRX7w5UPZtP38yaF1DX3yMK6w6YIeXcjzVg1rAtl68yTyo2Q80z8iQ/s3024/ATB%20SCZ%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB SCZ HD
-https://www.dailymotion.com/video/x84t82c
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEPA4_sXEXoCiFqfQUvJkGj6ysWcYCb6h1p9-Mql19PV3MGOzgKRlDQ9_eD5h2GtkjnNzP-oErpva_H-2pLKe3zf6s4RQdpBWeKRr5n8f4kQQR0jviRuAzvoTcpRrGNntWf_DmBHiP5kYPnGZK8mQC-8B75XG18Zpf1mJH3H8jEq-bv6PbSrGxIh7qA/s3024/ATB%20CBBA%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB CBBA HD
-https://www.dailymotion.com/video/x85aatu
 
 ***DOCUMENTALES Y NOTICIAS***
 
@@ -122,26 +77,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTZxTCq/HISPANTV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",HISPANTV HD
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3v1Txz/telesur-hd-vlc.jpg" group-title="DOCUMENTALES Y NOTICIAS",TELESUR HD
-https://www.dailymotion.com/video/x82ug5r
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhHxHC/CGTN-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",CGTN ES HD
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="DOCUMENTALES Y NOTICIAS",FORO TV HD
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TV PERU NOTICIAS HD
-https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg" group-title="DOCUMENTALES Y NOTICIAS",ATV PE HD
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4WFwyP/ATV-SUR-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",ATV SUR HD
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wBmTTxQ/EURO-NEWS-VLC.jpg" group-title="DOCUMENTALES Y NOTICIAS",EURO NEWS ES HD
-https://www.dailymotion.com/video/x2j7hpf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbBq6T8/EL-TORO-TV.jpg" group-title="DOCUMENTALES Y NOTICIAS",EL TORO TV HD
 https://streaming018.gestec-video.com/hls/eltoro_bal.m3u8
