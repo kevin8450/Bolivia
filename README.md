@@ -29,9 +29,6 @@ https://streamer02.digital.com.bo/session/1c679238-a653-11ed-ab90-00505683ffaa%2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1674083061.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="Canales Bolivianos",TVU LP HD
-https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1126647025.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="Canales Bolivianos",PAT LA PAZ 2 HD
 
 https://streamer04.digital.com.bo:443/session/8f36bd7c-6b8b-11ee-9a6d-00505683ffaa$h1.0$default/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
