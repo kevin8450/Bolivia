@@ -1,22 +1,12 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
-
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL 2 NACIONAL HD
 
 https://streamer02.digital.com.bo/session/6fe7d180-9eeb-11ed-ab90-00505683ffaa$h1.0$default/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s95WhNk/RED-UNO-SC-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
-
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s95WhNk/RED-UNO-SC-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO 2 SANTA CRUZ HD
 
 https://streamer02.digital.com.bo:443/session/ef2d6d44-6b8a-11ee-86ec-00505683ffaa$h1.0$default/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPGt3SQ/BOLIVISION-HD-NEW-2.jpg" group-title="Canales Bolivianos",BOLIVISION BO HD
 
@@ -65,9 +55,6 @@ https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ8WjZg/GARAGE-TV-HD.jpg" group-title="Internacional",GARAGE TV HD
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="Internacional",FORO TV HD
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="Internacional",EWTN HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
